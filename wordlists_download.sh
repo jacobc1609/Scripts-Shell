@@ -140,6 +140,8 @@ wget http://www.md5this.com/wordlists/dictionary_huge_9.zip
 #Huge English (!@#...)
 wget http://www.md5this.com/wordlists/dictionary_huge_spec.zip
 
+echo "Password for .zip files: md5this.com"
+
 #CrackStation (.torrent file)(crackstation.txt.gz)
 wget https://crackstation.net/downloads/crackstation.txt.gz.torrent
 #CrackStation Human Passwords Only (.torrent file)(crackstation-human-only.txt.gz)
